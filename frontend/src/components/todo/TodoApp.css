@@ -1,0 +1,15 @@
+label, input, button {
+  margin: 10px;
+  padding: 5px;
+}
+
+footer {
+  bottom: 0;
+  height: 40px;
+  position: absolute;
+  width: 90%;
+}
+
+.todoApp {
+  text-align: center;
+}
